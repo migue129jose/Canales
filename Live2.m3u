@@ -1,0 +1,42 @@
+#EXTINF:-1,Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/chunklist_w1780377540.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Canal CNC Medellin
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Mundo+
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Suram
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Teleislas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Solo Stand Up
+https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Cali TV
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal CNC Medellin
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:-1,Mundo +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Suram
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Tele Islas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,TV Agro
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8?PlaylistM3UCL
+#EXTINF:-1,UAO Play
+https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
